@@ -17,19 +17,22 @@ To install this module, you need to:
 Usage
 =====
 
-To configure this module, you need to:
+User can forward the mail to another recipient or group of recipient using one click. The Icon (Green Coloured) shows the button having mail forwarding option.
 
-* User can forward the mail to another recipient or group of recipient using one click. The Icon (Green Coloured) shows the button having mail forwarding option.
 
 .. figure:: static/description/mail-forward-icon.png
    :alt: Mail forward icon
 
-* The next screen will take you to the composed format of forward mail. Subject will highlight “FWD:” text preceding with the original content of subject. In the body of mail, you can see the data of previous mails and on the top you can draft using various formatting option as usual.
+
+The next screen will take you to the composed format of forward mail. Subject will highlight “FWD:” text preceding with the original content of subject. In the body of mail, you can see the data of previous mails and on the top you can draft using various formatting option as usual.
+
 
 .. figure:: static/description/mail-forward-composed.png
    :alt: Mail forward composed
    
-*    
+
+While forwarding mail, If mail contains any attachment then the forward mail carry forward the same to the newly composed mail.
+   
 
 Known issues / Roadmap
 ======================
